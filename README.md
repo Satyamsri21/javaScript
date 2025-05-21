@@ -1,2 +1,2 @@
-# chai-aur-code-JS
+# JS
 Polishing JS 
